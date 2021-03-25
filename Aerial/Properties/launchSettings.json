@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Aerial": {
+      "commandName": "Project",
+      "commandLineArgs": "-pt=10 -1l=20"
+    }
+  }
+}
